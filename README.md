@@ -1,5 +1,4 @@
-──t IZomato─────────┐
-# 🚀 Low-Level Design (LLD) Systems - Portfolio
+# 🚀 Low-Level Design (LLD) Systems - 
 
 A comprehensive collection of **real-world system design projects** implemented with clean code, UML diagrams, and detailed workflows. Perfect for interview preparation and understanding object-oriented design patterns.
 
